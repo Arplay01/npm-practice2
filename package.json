@@ -1,0 +1,18 @@
+{
+  "name": "npm-practice2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bang": "node-sass -w style.scss style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "normalize": "^0.3.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
